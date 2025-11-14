@@ -86,28 +86,11 @@ Audio, Games and Toys, and Media categories contribute far less — potential ar
 
  
 
- 
-
 🧠 Final Takeaways 
 
-Segment 
-
-Key Insight 
-
-Gender 
-
-Males spend more overall, especially in electronics 
-
-Time Trend 
-
-Home Appliances are consistently strong; Cameras declining 
-
-Product 
-
-Projectors dominate top-selling list 
-
-Category 
-
-Home Appliances and Computers are top revenue generators 
-
- 
+| Segment   | Key Insight                                               |
+|-----------|-----------------------------------------------------------|
+| Gender    | Males spend more overall, especially in electronics       |
+| Time Trend| Home Appliances are consistently strong; Cameras declining|
+| Product   | Projectors dominate top-selling list                      |
+| Category  | Home Appliances and Computers are top revenue generators  |
